@@ -7,3 +7,6 @@ tg://proxy?server=78.47.223.30&port=8443&secret=dd104462821249bd7ac519130220c25d
 tg://proxy?server=pesar.kocholo.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=dokhtar.kocholo.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=76.128-59-36-94.ir&port=443&secret=ee1603010200010001fc030386e24c3add3132322e3132382d35392d33362d39342e6972
+tg://proxy?server=76.128-59-36-94.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt0xMjIuMTI4LTU5LTM2LTk0Lmly
+tg://proxy?server=93.113.230.218&port=442&secret=40f9db94c7426b64b2069e32406cad63
