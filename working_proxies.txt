@@ -11,5 +11,4 @@ tg://proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519
 tg://proxy?server=193.163.201.114&port=2443&secret=f46d46887c3a3284000fbca2e0308e99
 tg://proxy?server=belotfelipo.larilarilaylay.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=159.69.16.55&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-tg://proxy?server=116.203.227.55&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 tg://proxy?server=88.99.122.157&port=8443&secret=dd104462821249bd7ac519130220c25d09
