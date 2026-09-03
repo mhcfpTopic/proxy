@@ -89,3 +89,4 @@ tg://proxy?server=91.107.174.164&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=proxy.sangarshopmoltilok.shop&port=443&secret=ac463927f8b2e9d8cf868cde7364371e
+tg://proxy?server=45.38.170.24&port=443&secret=7uk5xsZooMrlBi6_SE9BC4BzMy5hbWF6b25hd3MuY29t
