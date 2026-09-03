@@ -51,7 +51,6 @@ tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdC
 tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275
 tg://proxy?server=168.119.101.44&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=195.201.216.142&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
@@ -96,7 +95,6 @@ tg://proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b
 tg://proxy?server=103.161.35.56&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
 tg://proxy?server=golden.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
-tg://proxy?server=94.184.39.109.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=167.233.199.65&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=91.98.44.116&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=dena.irankhodro.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
