@@ -97,7 +97,6 @@ tg://proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519
 tg://proxy?server=webhook.vingardium.co.uk&port=443&secret=7t3__FoRaLL_Proxy_93ZWIuYmFsZS5haQ%3D%3D
 tg://proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-tg://proxy?server=45.61.180.171&port=443&secret=dd9d50345eb12d715708862cae82def8e0
 tg://proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
 tg://proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
 tg://proxy?server=permiiium.lavazemi2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
