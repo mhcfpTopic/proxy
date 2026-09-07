@@ -116,4 +116,3 @@ tg://proxy?server=www.shipboard.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5
 tg://proxy?server=RAGNAR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=008888m7p.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=nvv9z.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-tg://proxy?server=45.74.159.74&port=8080&secret=aab2aa2f30ebfb316f44e08fd881f7ff
