@@ -31,7 +31,6 @@ tg://proxy?server=91.107.174.164&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=teranhavaei.charkhofalak.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=103.161.35.56&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=167.233.199.65&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=91.98.44.116&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=168.119.142.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=79.137.196.223&port=15443&secret=ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d&name=%F0%9F%87%B3%F0%9F%87%B1+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -41,7 +40,6 @@ tg://proxy?server=98.22.51.6.88-205-694-406.ir.&port=8443&secret=3WMho4GHSV36xZo
 tg://proxy?server=www.giftt.ir.&port=8443&secret=7hcBGGq9DqYBIxkuJkNPkaVtZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf
 tg://proxy?server=178.105.91.243&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-tg://proxy?server=Https.12rk-q140ti.co.uk.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
 tg://proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=194.60.228.55&port=2096&secret=dd79e344818749bd7ac519130220c25d09
@@ -61,7 +59,6 @@ tg://proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519
 tg://proxy?server=webhook.vingardium.co.uk&port=443&secret=7t3__FoRaLL_Proxy_93ZWIuYmFsZS5haQ%3D%3D
 tg://proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-tg://proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
 tg://proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
 tg://proxy?server=permiiium.lavazemi2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 tg://proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
