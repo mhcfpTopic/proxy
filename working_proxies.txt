@@ -154,3 +154,7 @@ tg://proxy?server=212.108.98.4.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=212.108.98.5.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=2.29.42.82&port=443&secret=ee1603010200010001fc030486e24c3add6d656469612e737465616d706f77657265642e636f6d
+tg://proxy?server=dokhtar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=ma.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+tg://proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
