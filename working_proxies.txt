@@ -186,7 +186,6 @@ tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d0950.%5BPROXY
 tg://proxy?server=212.193.4.172&port=8443&secret=ee828134980862470425195728452306343231322e3139332e342e313732
 tg://proxy?server=oom8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d0957.%5BPROXY
-tg://proxy?server=the.sturm.mom&port=443&secret=ee04cd016b68eb81e97ddae3721952e7aa7468652e737475726d2e6d6f6d
 tg://proxy?server=899990lm.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d0941.%5BPROXY
 tg://proxy?server=194.60.228.69&port=8880&secret=79e344818749bd7ac519130220c25d0959.%5BPROXY
 tg://proxy?server=gidroksiweb.duckdns.org&port=443&secret=ee3218d910bf9812d2116370a259f836ff676964726f6b73697765622e6475636b646e732e6f7267
