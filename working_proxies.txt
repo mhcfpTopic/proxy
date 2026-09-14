@@ -121,7 +121,6 @@ tg://proxy?server=417.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7a
 tg://proxy?server=194.60.228.28&port=2096&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=188.245.218.105&port=7799&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=sub.iran-tehran.co.uk.&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=fa1.iiproxy.com&port=443&secret=ca5318249c49c3e121fa53b054e58a0c
 tg://proxy?server=FAST.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=ir.genesbyjohn.info&port=8443&secret=104462821249bd7ac519130220c8dd09
 tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
@@ -186,7 +185,6 @@ tg://proxy?server=94.184.39.5&port=2020&secret=00000000000000000000000000000000
 tg://proxy?server=94.184.39.6&port=2020&secret=ee00000000000000000000000000000000
 tg://proxy?server=pm00c.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=perspolis.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=nu3.iiproxy.com&port=443&secret=e256bd616e49c6960c1b647c44d926cf
 tg://proxy?server=ZAGROS.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -279,3 +277,21 @@ tg://proxy?server=46.224.141.30&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFu
 tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=quiet.img.garfar.ir&port=453&secret=21d0c153f80cc194ea36740052df47c7
+tg://proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=8jxf.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+tg://proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=0006621.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=6632511kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=117kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=tg.rocketvpn.top&port=443&secret=dd4c35b9b7e3f811ee9b760242ac120002
+tg://proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=mosabeghe.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
