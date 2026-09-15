@@ -325,3 +325,7 @@ tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=212.74.39.59&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
 tg://proxy?server=167.233.81.41&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=94.184.32.109.canlira.ir&port=4142&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=server.nl-arvancloud.co.uk&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+tg://proxy?server=hot.happylink.top.&port=2053&secret=7nsCgx5L3NQFSGGuGMmMft1zMy5hbWF6b25hd3MuY29t
+tg://proxy?server=lllkj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
