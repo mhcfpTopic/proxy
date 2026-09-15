@@ -269,7 +269,6 @@ tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=quiet.img.garfar.ir&port=453&secret=21d0c153f80cc194ea36740052df47c7
 tg://proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=8jxf.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=0006621.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=6632511kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -328,3 +327,4 @@ tg://proxy?server=server.nl-arvancloud.co.uk&port=443&secret=7hYDAQIAAQAB_AMDhuJ
 tg://proxy?server=hot.happylink.top.&port=2053&secret=7nsCgx5L3NQFSGGuGMmMft1zMy5hbWF6b25hd3MuY29t
 tg://proxy?server=lllkj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+tg://proxy?server=shahi.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
