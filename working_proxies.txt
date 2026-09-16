@@ -274,7 +274,6 @@ tg://proxy?server=45.134.38.205&port=6793&secret=e60a7e147b3bf2e577de04d2b021542
 tg://proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=172.65.113.134&port=22&secret=dd00000000000000000000000000000000
 tg://proxy?server=nostalgi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
 tg://proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=94.184.39.100.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -321,7 +320,6 @@ tg://proxy?server=frontend-resources-endpoint-api.website&port=80&secret=7vxW-3P
 tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=91.107.180.123&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
