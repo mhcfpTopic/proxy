@@ -102,7 +102,6 @@ tg://proxy?server=94.184.39.5&port=2020&secret=ee0000000000000000000000000000000
 tg://proxy?server=65.109.147.34&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=94.184.39.5&port=2020&secret=00000000000000000000000000000000
 tg://proxy?server=94.184.39.6&port=2020&secret=ee00000000000000000000000000000000
-tg://proxy?server=91.107.160.196&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add&%40ProxyVPN11=
 tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09&%40ProxyVPN11=
