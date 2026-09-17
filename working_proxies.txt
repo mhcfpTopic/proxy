@@ -92,7 +92,6 @@ tg://proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac5191302
 tg://proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=plm6.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=ZAGROS.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
-tg://proxy?server=28ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -174,14 +173,11 @@ tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=www.sinlx.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 tg://proxy?server=www.sinlx.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=2yyddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.107.160.196&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=ir.engematica.info&port=8443&secret=104462821249bd7ac519130220c8dd09
-tg://proxy?server=277ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=app.free-telegram.link&port=443&secret=ddfb47a1320fa86adfa6e63b425154ce1b
 tg://proxy?server=880.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=kfk31.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=2ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=ping-khoob.ir.paeez-amad.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
