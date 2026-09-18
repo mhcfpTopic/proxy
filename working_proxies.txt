@@ -118,7 +118,6 @@ tg://proxy?server=65.21.227.198&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=65.21.227.200&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
-tg://proxy?server=cdn8.cdnwave.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=server3.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=dpi.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=ppp7332.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
@@ -137,7 +136,6 @@ tg://proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac5191
 tg://proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=www.manazinjamiram.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=www.505-808-404-202.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=212.74.39.59&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
 tg://proxy?server=167.233.81.41&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=94.184.32.109.canlira.ir&port=4142&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=server.nl-arvancloud.co.uk&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
@@ -162,7 +160,6 @@ tg://proxy?server=www.deragbaz.ir.&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq5W
 tg://proxy?server=167.233.89.249&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=207-pana.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=hot-pro.qavi-tarin.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-tg://proxy?server=s5.assetflux.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=gov.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=www.meshdrip.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
