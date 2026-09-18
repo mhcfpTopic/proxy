@@ -227,3 +227,9 @@ tg://proxy?server=nooshabe.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=88.99.175.124&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
 tg://proxy?server=khobi.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=167.233.30.194&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+tg://proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=meshki.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=ld71.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=8d8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=001.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
