@@ -125,7 +125,6 @@ tg://proxy?server=pmjc.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130
 tg://proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=www.glowship.ir.&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=www.172-63.ir.&port=8443&secret=ee8b8238601de9360f332514afa56ada45626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=46.224.141.30&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 tg://proxy?server=117kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=45.134.38.205&port=6793&secret=e60a7e147b3bf2e577de04d2b0215429
 tg://proxy?server=172.65.113.134&port=22&secret=dd00000000000000000000000000000000
