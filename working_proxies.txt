@@ -256,3 +256,8 @@ tg://proxy?server=ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMj
 tg://proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=91.234.147.10.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=VIP.Mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
+tg://proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=212.108.98.24.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=tick.basictools7.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=91.234.147.6.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
