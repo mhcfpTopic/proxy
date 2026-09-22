@@ -242,3 +242,9 @@ tg://proxy?server=82.27.116.209&port=20027&secret=ee4325e8a36e5f3c087095431eefa2
 tg://proxy?server=194-63.aghaee.54-65-43-p.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=mahsa-khanom.mahastim-57-232.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=ir.atcfirealarms.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=nostalgi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
