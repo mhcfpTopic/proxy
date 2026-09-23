@@ -137,12 +137,10 @@ tg://proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc
 tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=nooshabe.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=79.137.196.223&port=16443&secret=ee64cb94437cedd507cf9c4d83fbc229287777772e636c6f7564666c6172652e636f6d&name=%F0%9F%87%B3%F0%9F%87%B1+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=172.65.103.117&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
-tg://proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=bastani.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
@@ -238,7 +236,6 @@ tg://proxy?server=91.234.147.12.aprawood.ir&port=2020&secret=0000000000000000000
 tg://proxy?server=mangh.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=116.203.12.4&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=8wjs.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-tg://proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=00uz.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=669888h.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=zenon.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
