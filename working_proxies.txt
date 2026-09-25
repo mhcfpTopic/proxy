@@ -131,3 +131,6 @@ tg://proxy?server=82.27.116.208&port=20026&secret=eec4e4a9bd5a9967e98ced13ac3039
 tg://proxy?server=82.27.116.210&port=20028&secret=ee0038d4359962fd14de6b96215bc973327777772e6d6963726f736f66742e636f6d
 tg://proxy?server=82.27.116.211&port=20029&secret=eeb9b5b96d9bbb9d79cf30a9893494f2a977777772e6d6963726f736f66742e636f6d
 tg://proxy?server=henzoproxy.selqora.ir&port=443&secret=eef62735c756debf8dedd16a32c93de60f706c61792e676f6f676c652e636f6d
+tg://proxy?server=00iu.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=hh8.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
