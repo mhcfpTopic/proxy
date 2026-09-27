@@ -29,7 +29,6 @@ tg://proxy?server=204.168.145.16&port=443&secret=8f604a7e17871ca0b6e39e5435ac2e1
 tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%87%A9%F0%9F%87%AA+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=185.84.156.45&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7&name=%F0%9F%87%B3%F0%9F%87%B1+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=eshkal-nadare.vasledada.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=135.181.74.147&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&name=%F0%9F%87%AB%F0%9F%87%AE+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -70,14 +69,12 @@ tg://proxy?server=liverpool.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac5
 tg://webproxy?server=fiwebpps.yearnings.ru&port=443&secret=d48469efaa56e717893a3773f4f2de45
 tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=for.dear-iranian-people.com.heazshddd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=should.be.wake.up.ir.yfdhjderkig.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=65.21.222.229&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://webproxy?server=web.kostyanchekloh.lol&port=443&secret=ddc369a1f6758962c7ca17946e87152eac
 tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -102,3 +99,8 @@ tg://proxy?server=free-mtproto.flexiblenet.org&port=443&secret=4da47f00c2291d556
 tg://proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=87.248.129.97&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=87.248.129.98&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
