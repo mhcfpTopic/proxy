@@ -129,3 +129,9 @@ tg://proxy?server=Server2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAA
 tg://proxy?server=Server1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=proxy-daemi-s1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=proxy-daemi-s2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=135.206-197-43.ir.&port=8443&secret=7hBEBIGHSV36xZoDAiDCXLNiaXNjb3R0aS55ZWt0YW5ldC5jb20
+tg://proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
+tg://proxy?server=kamni.monaliza.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
+tg://proxy?server=yassnab.pan.weed.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
+tg://proxy?server=wwwiid.www.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
+tg://proxy?server=monaliiiz.www.n.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
