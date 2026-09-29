@@ -135,3 +135,4 @@ tg://proxy?server=6990vz.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac5
 tg://proxy?server=LOVE.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.109.255.130&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=joje.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=185.19.33.107&port=443&secret=dd0c81731b00c8d5fbe7ccc9658544bfb5
