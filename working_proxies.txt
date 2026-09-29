@@ -55,7 +55,6 @@ tg://proxy?server=should.be.wake.up.ir.yfdhjderkig.info.&port=7443&secret=eeNEgY
 tg://proxy?server=65.21.222.229&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -91,7 +90,6 @@ tg://proxy?server=Server2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAA
 tg://proxy?server=Server1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=proxy-daemi-s1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
-tg://proxy?server=wwwiid.www.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
 tg://proxy?server=91.107.155.88&port=8443&secret=ee79e344818749bd7ac519130220c25d09
 tg://proxy?server=194.60.228.4&port=2096&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=162.55.246.219&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -104,9 +102,6 @@ tg://proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac5191302
 tg://proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=sd.cipservice2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=img.mangoseason6.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=95.217.26.76&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%87%AB%F0%9F%87%AE+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=95.217.28.208&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%87%AB%F0%9F%87%AE+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=95.217.27.36&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%87%AB%F0%9F%87%AE+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -124,7 +119,6 @@ tg://proxy?server=www.manazinjamiram.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY
 tg://proxy?server=p8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=0788ii0u.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=khob.nisti.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
-tg://proxy?server=llllv68.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=k887iu.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=alone.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -134,18 +128,11 @@ tg://proxy?server=tabestan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac51
 tg://proxy?server=ir.atcfirealarms.co.uk&port=443&secret=104462821249bd7ac519130220c8dd09
 tg://proxy?server=nnn8u.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=LONDON.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=VIP.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=7999lj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=main.tosenortejarat.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=behtarin.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=pmjc.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=167.235.225.159&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.99.152.211&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=6990vz.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=turkish-kish-mish.tosenortejarat.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=LOVE.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=yy8ii0u.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.109.255.130&port=8443&secret=dd104462821249bd7ac519130220c25d09
