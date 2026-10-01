@@ -109,5 +109,5 @@ tg://proxy?server=fol-tarine-iran.207-pana.ir&port=2020&secret=AAAAAAAAAAAAAAAAA
 tg://proxy?server=mokatebe-275hs.ramezan-83.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=VATAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=188.245.3.170&port=444&secret=ddbcea1900f2fcab709454752b211f0d2f
 tg://proxy?server=91.107.141.165&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+tg://proxy?server=sadaf.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
