@@ -138,7 +138,6 @@ tg://proxy?server=sss88sg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519
 tg://proxy?server=hgg88gh.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=uuu8857h.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=www.digikallamall.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 tg://proxy?server=server3.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=saboon.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
