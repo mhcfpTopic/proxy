@@ -89,7 +89,6 @@ tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=www.shipboard.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=khiar.telbet.app&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -111,7 +110,6 @@ tg://proxy?server=47.9.mk.5.n7.fk.sl.73.ir.yalandunya.co.uk.&port=8443&secret=ee
 tg://proxy?server=hibf6.ir.lpfss.co.uk.i9l9.ir.&port=8443&secret=7hYDAQIAAQAB_AMEhuJMOt0
 tg://proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=188.245.1.146&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=p.lite64.xyz&port=443&secret=ee5b7d8506708660cf5e4bd70d0ccc91d26c69746536342e73697465
 tg://proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
