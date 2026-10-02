@@ -58,7 +58,6 @@ tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c
 tg://proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=87.248.129.97&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=87.248.129.98&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=167.233.89.249&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=206.71.149.70&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
 tg://proxy?server=flow.jumbleconnect.ru&port=443&secret=eed058a1961d90450c4c09b55c4ea982c0666c6f772e6a756d626c6561692e7370616365
 tg://proxy?server=82.27.116.212&port=20030&secret=ee63262ef083723e5e1a9f74fa3f1018287777772e6d6963726f736f66742e636f6d
@@ -118,7 +117,6 @@ tg://proxy?server=p.lite64.xyz&port=443&secret=ee5b7d8506708660cf5e4bd70d0ccc91d
 tg://proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.ariely.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-tg://proxy?server=ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=185.132.53.114&port=443&secret=9e4737bf060e6a0fa06935665f4cb89c
 tg://proxy?server=77.42.56.67&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
