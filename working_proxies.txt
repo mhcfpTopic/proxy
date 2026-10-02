@@ -155,3 +155,4 @@ tg://proxy?server=star.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c
 tg://proxy?server=17fh.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=kkh.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=77.42.56.67&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://webproxy?server=cdn.flowaccess.site&port=443&secret=dd1924acaec2bb63dac896a6d02a382f38
