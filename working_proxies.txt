@@ -11,7 +11,6 @@ tg://proxy?server=176.65.128.63&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=65.21.234.12&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=135.181.129.162&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=207.89.20.5&port=443&secret=4da47f00c2291d55696fa3ae954ffd78
-tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=791kk.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d0956.%5BPROXY
 tg://proxy?server=194.60.228.69&port=8880&secret=79e344818749bd7ac519130220c25d0959.%5BPROXY
 tg://proxy?server=92.246.87.243&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -142,3 +141,8 @@ tg://proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c2
 tg://proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=bastani.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=dokhtar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
