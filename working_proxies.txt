@@ -187,3 +187,7 @@ tg://proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc
 tg://proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=khobi.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.107.152.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
