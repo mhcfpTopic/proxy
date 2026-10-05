@@ -237,3 +237,4 @@ tg://proxy?server=5897jrrl.ir.ir.ir.meli-n12.info&port=8443&secret=dd10446282124
 tg://proxy?server=opt.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=91.234.147.8.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=90.miosen.cyou&port=2096&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
