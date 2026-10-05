@@ -206,3 +206,5 @@ tg://proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=82.27.116.208&port=20026&secret=eec4e4a9bd5a9967e98ced13ac3039af997777772e6d6963726f736f66742e636f6d
 tg://proxy?server=82.27.116.210&port=20028&secret=ee0038d4359962fd14de6b96215bc973327777772e6d6963726f736f66742e636f6d
 tg://proxy?server=82.27.116.211&port=20029&secret=eeb9b5b96d9bbb9d79cf30a9893494f2a977777772e6d6963726f736f66742e636f6d
+tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
+tg://proxy?server=91.98.124.25&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
