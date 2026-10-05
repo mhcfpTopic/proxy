@@ -64,7 +64,6 @@ tg://proxy?server=194.60.228.4&port=2096&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=162.55.246.219&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=194.60.228.4&port=2096&secret=ee79e344818749bd7ac519130220c25d09
 tg://proxy?server=65.108.29.22&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=for-iranian-users.ir.gole-baghche.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d
 tg://proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=95.217.26.76&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%87%AB%F0%9F%87%AE+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=95.217.28.208&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%87%AB%F0%9F%87%AE+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -206,7 +205,6 @@ tg://proxy?server=82.27.116.208&port=20026&secret=eec4e4a9bd5a9967e98ced13ac3039
 tg://proxy?server=82.27.116.210&port=20028&secret=ee0038d4359962fd14de6b96215bc973327777772e6d6963726f736f66742e636f6d
 tg://proxy?server=82.27.116.211&port=20029&secret=eeb9b5b96d9bbb9d79cf30a9893494f2a977777772e6d6963726f736f66742e636f6d
 tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
-tg://proxy?server=91.98.124.25&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
