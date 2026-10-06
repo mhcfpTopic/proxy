@@ -238,3 +238,4 @@ tg://proxy?server=opt.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=91.234.147.8.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=90.miosen.cyou&port=2096&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
+tg://webproxy?server=neomap.club&port=443&secret=3082e7f2e4ebb3abec0b8011fc493653
