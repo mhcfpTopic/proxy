@@ -309,3 +309,10 @@ tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdC
 tg://proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=nooshabe.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=pashmak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=voidng.com&port=443&secret=ee47243e334b95d5041bf86d662b75c99e766f69646e672e636f6d
+tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=whiteblox.org&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://webproxy?server=webproxy-danfeng.304999.xyz&port=443&secret=70a26ec9fc608867e907d729fe3cf65f
+tg://webproxy?server=tg.empty-space.org&port=443&secret=7e2b68c52cacccad90eda282852e16ab
+tg://proxy?server=91.98.99.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://webproxy?server=proxy.btb.onl&port=443&secret=f709417b889bd7c54937ba5adfb96f19
