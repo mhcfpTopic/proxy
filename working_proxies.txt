@@ -302,3 +302,4 @@ tg://proxy?server=proxy-daemi-s1.server-space52.info&port=80&secret=AAAAAAAAAAAA
 tg://proxy?server=neognu.com&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e016e656f676e752e636f6d
 tg://webproxy?server=neognu.com&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01
 tg://proxy?server=193.163.201.114&port=25565&secret=6ce61b205133dbfac3c850332fa67413
+tg://webproxy?server=prox.khoreshtsabzi.ir&port=443&secret=554bd05e719802abbf512a311ad9377e
