@@ -327,3 +327,6 @@ tg://proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130
 tg://proxy?server=lavashak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=srv-dksswb.giverra.sbs&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
+tg://proxy?server=ghalb.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=darya.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
