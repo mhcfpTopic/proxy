@@ -332,7 +332,6 @@ tg://proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=91.98.99.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&name=%F0%9F%87%A9%F0%9F%87%AA+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=e.networkmodeai.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
-tg://proxy?server=srv-cbtynv.giverra.sbs&port=443&secret=ee251e38db136e1ce2047237c71e5e1e867570646174652e676f6f676c65617069732e636f6d
 tg://proxy?server=img.mangoseason6.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=cdn.mangoseason4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=static.mangoseason3.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
