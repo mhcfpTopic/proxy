@@ -369,3 +369,6 @@ tg://proxy?server=731.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac5191
 tg://proxy?server=1fuf111z.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=udp1.freedv2023.xyz&port=8118&secret=ee64bf108dd93e3d3044720c35ca20b2a17777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=francev6.freedv2023.xyz&port=8118&secret=ee64bf108dd93e3d3044720c35ca20b2a17777772e636c6f7564666c6172652e636f6d
