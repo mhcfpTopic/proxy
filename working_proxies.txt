@@ -370,3 +370,4 @@ tg://proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc0
 tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=udp1.freedv2023.xyz&port=8118&secret=ee64bf108dd93e3d3044720c35ca20b2a17777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=francev6.freedv2023.xyz&port=8118&secret=ee64bf108dd93e3d3044720c35ca20b2a17777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=srv-xreicv.giverra.sbs&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
