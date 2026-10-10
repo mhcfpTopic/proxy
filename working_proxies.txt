@@ -370,7 +370,6 @@ tg://proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc0
 tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=udp1.freedv2023.xyz&port=8118&secret=ee64bf108dd93e3d3044720c35ca20b2a17777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=francev6.freedv2023.xyz&port=8118&secret=ee64bf108dd93e3d3044720c35ca20b2a17777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=srv-xreicv.giverra.sbs&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
 tg://proxy?server=46.225.116.155&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -382,3 +381,13 @@ tg://webproxy?server=web.arixo.shop&port=443&secret=dd27e57f496bbf279605f0198ea6
 tg://webproxy?server=cdnshoal.com&port=443&secret=ddd5166c9bdf5f3320f74bcfe1f53f72ce
 tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=Yaghoub.Leys.Safari.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=www.sinlx.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://webproxy?server=twp-f4f1c33dc8-do.1-wa-llw-e-b1.workers.dev&port=443&secret=f522a7d44ae17455af7f5a85cee4b1e7
+tg://webproxy?server=wallweb-29817c82fa-do.1w-al-lw-e-b1.workers.dev&port=443&secret=9cdc64117e6d61b8408ae42ffe4e3990
+tg://proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=91.107.253.33&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=167.233.89.249&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+tg://proxy?server=cvvd2.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=tabestan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=www.sinlx.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
+tg://proxy?server=46.225.39.252&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
