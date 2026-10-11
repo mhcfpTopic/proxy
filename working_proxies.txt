@@ -392,3 +392,4 @@ tg://proxy?server=Rakhsh.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJd
 tg://proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=atxng.com&port=443&secret=ee2f74026dcf61ad5dd87065d59bf7e3a16174786e672e636f6d
 tg://proxy?server=193.163.201.114&port=443&secret=891313190bc2241584ef064f03989c97
+tg://webproxy?server=twp-cf-9a7d2f806c3e.twp-cf-5355e2b5a4.workers.dev&port=443&secret=48deadc4f6bc34fc14d878e4e7393fd2
