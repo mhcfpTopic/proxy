@@ -388,3 +388,6 @@ tg://proxy?server=link.telehelp.top&port=443&secret=ee243af7382f8853a59265ac6dd3
 tg://proxy?server=boost.telehelp.top&port=443&secret=eed4f42b03cae4d1a0f2e2a51454a6e0d7626f6f73742e74656c6568656c702e746f70
 tg://proxy?server=salut.telehelp.top&port=443&secret=ee39a67a7ff5e534b8afba67e0a6bafdd373616c75742e74656c6568656c702e746f70
 tg://proxy?server=cdn.telehelp.top&port=443&secret=ee4f3308bc6f67badccc790bf30f15f3de63646e2e74656c6568656c702e746f70
+tg://proxy?server=digikala.com.torob.ir.divar.ir.basalam.com.eyfst.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=aparat.com.filimo.com.namava.ir.telewebion.com.ghoostbusters.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=isna.ir.asriran.com.varzesh3.com.yalandonyi.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
