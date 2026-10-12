@@ -223,14 +223,12 @@ tg://proxy?server=45tgrg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac5191
 tg://proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=193.163.201.114&port=2443&secret=f46d46887c3a3284000fbca2e0308e99
-tg://proxy?server=d7k88k13.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=bvv608.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=jadid.porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=bookmook.hichibehichi-co.info&port=2882&secret=dd10400103324995b07c030386e886e7f1
-tg://proxy?server=dd7d7k88k13.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -372,7 +370,6 @@ tg://proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=188.206-197-43.ir.&port=8443&secret=3RBEBIGHSV36xZoDAiDCXLM
 tg://proxy?server=178.105.112.21&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQAAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=167.233.139.145&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=srv-bvrlvs.giverra.sbs&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
 tg://proxy?server=46.225.254.89&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=46.225.253.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=46.225.254.8&port=8443&secret=dd104462821249bd7ac519130220c25d09
