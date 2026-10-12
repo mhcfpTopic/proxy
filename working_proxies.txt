@@ -280,7 +280,6 @@ tg://proxy?server=appstoff.info&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9
 tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=143.14.59.80&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
 tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://webproxy?server=web-twc.cerebium.ru&port=443&secret=dd33df0b808230e093d7098fdf784a3dab
 tg://webproxy?server=flare-free.xyz&port=443&secret=ec101543b4d4b7f77045eca0d821a641
 tg://proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -427,3 +426,6 @@ tg://proxy?server=17fh.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519
 tg://proxy?server=109.248.163.171&port=8880&secret=eeb7e4c1a9f2d83c6e5a0b7d9f1c4e8a237777772e7465736c612e636f6d
 tg://proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://webproxy?server=web.topproxt.asia&port=443&secret=dd082242bf1744c8cc7d92b703b2746481
+tg://proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=61.ir.mmd.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
