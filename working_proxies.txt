@@ -409,7 +409,6 @@ tg://proxy?server=87.248.129.13&port=15&secret=ee1603010200010001fc030386e24c3ad
 tg://webproxy?server=tg.daodundog.workers.dev&port=443&secret=3dc48cffa2fef9baf20ca725b434d05f
 tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=provxy.byte4byte.com&port=443&secret=eef7e82edb5d94f957996759929ef5a0816d6f7a696c6c612e6f7267
 tg://proxy?server=dehghan2.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=94.184.39.113.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
