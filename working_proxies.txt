@@ -4,7 +4,6 @@ tg://proxy?server=103.161.35.56&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=168.119.142.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=135.181.74.147&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=65.109.106.132&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=176.65.128.63&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=207.89.20.5&port=443&secret=4da47f00c2291d55696fa3ae954ffd78
@@ -159,7 +158,6 @@ tg://webproxy?server=eu.compono.online&port=443&secret=0b03d5b08b5592096de09e41e
 tg://webproxy?server=webtg-1.stepavpn.ru&port=443&secret=ddc99839390b5db85d6f2160864e74c001
 tg://proxy?server=pts.daricto.ir&port=443&secret=953d7a7960199dec8308605b94e2019f
 tg://proxy?server=ccoineres.daricto.ir&port=443&secret=f1c9962c807da65e6ef5602cf463a3ab
-tg://proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=82.27.116.208&port=20026&secret=eec4e4a9bd5a9967e98ced13ac3039af997777772e6d6963726f736f66742e636f6d
 tg://proxy?server=82.27.116.210&port=20028&secret=ee0038d4359962fd14de6b96215bc973327777772e6d6963726f736f66742e636f6d
 tg://proxy?server=82.27.116.211&port=20029&secret=eeb9b5b96d9bbb9d79cf30a9893494f2a977777772e6d6963726f736f66742e636f6d
@@ -277,7 +275,6 @@ tg://proxy?server=ghalb.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c
 tg://proxy?server=darya.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=shsh.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=hash.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=se.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -463,3 +460,11 @@ tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb26
 tg://proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+tg://proxy?server=winston.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=elrmam.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=ebrahim-noh-mosa.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=daemi.net.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+tg://proxy?server=melat.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+tg://proxy?server=sarzamin.mosbatbashim.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
+tg://proxy?server=char.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
