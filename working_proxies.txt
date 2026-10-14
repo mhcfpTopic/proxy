@@ -515,3 +515,8 @@ tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c
 tg://proxy?server=VATAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://webproxy?server=vlesso4ka.monster&port=443&secret=3157b224c9a69b9d1ba04f1229514b22
 tg://webproxy?server=k1.dlpd.cc&port=443&secret=dd9bf46ec57803c09def701a3844858c
+tg://proxy?server=167.235.197.46&port=8443&secret=dd79e344818749bd7ac519130220c25d09
+tg://proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=u8886h6.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=orbit.mtp.lat&port=443&secret=ee09bcb48876795874b1ac8c24940ebff76c69746536342e73697465
+tg://proxy?server=persia.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
