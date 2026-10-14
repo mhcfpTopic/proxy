@@ -509,3 +509,7 @@ tg://proxy?server=d7chgjj.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519
 tg://proxy?server=17f1r.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=ooo006.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://webproxy?server=proxy.btb.onl&port=443&secret=0b8da507f8bc3b22d91720f310de632d
+tg://proxy?server=mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=VATAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
