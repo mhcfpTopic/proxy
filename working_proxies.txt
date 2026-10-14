@@ -474,3 +474,5 @@ tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b33439
 tg://proxy?server=206.1.103.95&port=8443&secret=1c02306129d0a3a561cce26200e4486a
 tg://proxy?server=gdd8gjj.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=r7d006.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
