@@ -483,7 +483,6 @@ tg://proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7a
 tg://proxy?server=17.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=9j.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=w7ch6.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=201.79.1.28&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
 tg://proxy?server=FLOKI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=jadid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -517,3 +516,5 @@ tg://webproxy?server=cdnvkvideo01.liketg.org&port=443&secret=dd65e58cc66c77a3b45
 tg://webproxy?server=tgfree.xinglanhui.cc&port=443&secret=850a43900159cedacbb4a488e143c765
 tg://webproxy?server=apple.flare-free.xyz&port=443&secret=aab65144eb3eea373eedf4febd7c5f41
 tg://webproxy?server=web-de2.tgproxy.pink&port=443&secret=ddf89bbc302851faf46edca4206ad06613
+tg://proxy?server=srv-nindte.giverra.sbs&port=443&secret=ee123efa14fd0371efb7d724883151a4c7646c2e676f6f676c652e636f6d
+tg://proxy?server=srv-wryisd.mtshop.xyz&port=443&secret=ee123efa14fd0371efb7d724883151a4c7646c2e676f6f676c652e636f6d
