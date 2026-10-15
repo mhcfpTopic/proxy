@@ -559,3 +559,9 @@ tg://proxy?server=talfighi.barekatbashe.info&port=8443&secret=1603010200010001fc
 tg://proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://webproxy?server=cdn.annet.store&port=443&secret=ddca57e619f19021cb16f973d60a981038
 tg://proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=srv-wghval.giverra.sbs&port=443&secret=ee4c20f2de9d1c0ea7962680ccc5609b99646c2e676f6f676c652e636f6d
+tg://webproxy?server=wallweb-wallwebforu-do.w-allw-eb-23.workers.dev&port=443&secret=dd4654f0352f79a0d79034085e681107
+tg://webproxy?server=wallweb-0fda41eb44-do.wa-l-lw-eb-23.workers.dev&port=443&secret=42e6244cb42cbc22de4644bb90f2ffc9
+tg://webproxy?server=wallweb-bb3804dbb1-do.wa-llw-e-b23.workers.dev&port=443&secret=710b2e9c4334208a8153ecb60d05953d
+tg://webproxy?server=wallweb-98bdbc4644-do.w-all-we-b23-87f.workers.dev&port=443&secret=a0196317ea2d4c55df62e7c7f5b313fb
+tg://webproxy?server=wallweb-6b88adf415-do.wa-llw-eb-23.workers.dev&port=443&secret=9e3303a8c1b8865e61b25fda870435bb
