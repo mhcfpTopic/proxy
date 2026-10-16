@@ -497,7 +497,6 @@ tg://proxy?server=ir-ir.naganuma.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://webproxy?server=game.spacee.xyz&port=443&secret=18adcc8527031c4f27eddcd437bd27e2
 tg://webproxy?server=cdnvkvideo01.liketg.org&port=443&secret=dd65e58cc66c77a3b454dda5546a1acbcf
 tg://webproxy?server=apple.flare-free.xyz&port=443&secret=aab65144eb3eea373eedf4febd7c5f41
-tg://webproxy?server=web-de2.tgproxy.pink&port=443&secret=ddf89bbc302851faf46edca4206ad06613
 tg://proxy?server=behtarin.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
