@@ -562,3 +562,5 @@ tg://webproxy?server=wallweb-0fda41eb44-do.wa-l-lw-eb-23.workers.dev&port=443&se
 tg://webproxy?server=wallweb-bb3804dbb1-do.wa-llw-e-b23.workers.dev&port=443&secret=710b2e9c4334208a8153ecb60d05953d
 tg://webproxy?server=wallweb-98bdbc4644-do.w-all-we-b23-87f.workers.dev&port=443&secret=a0196317ea2d4c55df62e7c7f5b313fb
 tg://webproxy?server=wallweb-6b88adf415-do.wa-llw-eb-23.workers.dev&port=443&secret=9e3303a8c1b8865e61b25fda870435bb
+tg://proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=se.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
