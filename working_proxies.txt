@@ -564,3 +564,6 @@ tg://webproxy?server=wallweb-98bdbc4644-do.w-all-we-b23-87f.workers.dev&port=443
 tg://webproxy?server=wallweb-6b88adf415-do.wa-llw-eb-23.workers.dev&port=443&secret=9e3303a8c1b8865e61b25fda870435bb
 tg://proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=se.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=srv-ydqics.gomt.shop&port=443&secret=ee4c20f2de9d1c0ea7962680ccc5609b99646c2e676f6f676c652e636f6d
+tg://proxy?server=ir-ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=ir-ir.my-pv.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
