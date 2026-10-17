@@ -579,3 +579,4 @@ tg://proxy?server=a11kpi912713.ir.ir.ir.meli-n12.info&port=8443&secret=dd1044628
 tg://proxy?server=benz.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=hmde.easytome.net&port=443&secret=dd67fcdfeed6f4259b633d304a2db18d1b
 tg://proxy?server=77.90.43.161&port=49458&secret=ddc3d3995da1e1bb26505b7c730fb7386e
+tg://proxy?server=mtp.godp.ir&port=26889&secret=eec83c2d59c3f0887519c4321f470c9bed7777772e636c6f7564666c6172652e636f6d&name=GodVpn
