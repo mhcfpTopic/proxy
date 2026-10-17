@@ -605,3 +605,6 @@ tg://proxy?server=llllgb6.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac
 tg://proxy?server=tim.pd.mi.v6.mgi.5s.n.p.wu.basketbalo.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=33.antifilterasianew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=33.itpokfares.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=167.233.34.182&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+tg://proxy?server=1.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D
+tg://proxy?server=185.156.108.210&port=443&secret=7j3nDh7ptri49pTW5Nv9mel3d3cuZ29vZ2xlLmNvbQ
