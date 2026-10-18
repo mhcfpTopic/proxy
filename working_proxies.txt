@@ -630,3 +630,5 @@ tg://proxy?server=www.basketbalo.ir.&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq
 tg://proxy?server=178.105.123.147&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQAAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=altaria.proxy.rlwy.net&port=46796&secret=a7f3c91e8b2d6045f1a9e7c3b6d8204f
 tg://proxy?server=roundhouse.proxy.rlwy.net&port=33261&secret=e4b8a21f7c9d6035a2f1e8b7d4c6903a
+tg://proxy?server=junction.proxy.rlwy.net&port=45559&secret=9f2c7a4e1b8d6035c4a9e2f7d6b1083a
+tg://proxy?server=yamabiko.proxy.rlwy.net&port=52356&secret=c8f1a4d72e9b6035f7a2c1e8d4b9063a
