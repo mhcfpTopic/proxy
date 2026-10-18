@@ -631,3 +631,5 @@ tg://proxy?server=altaria.proxy.rlwy.net&port=46796&secret=a7f3c91e8b2d6045f1a9e
 tg://proxy?server=roundhouse.proxy.rlwy.net&port=33261&secret=e4b8a21f7c9d6035a2f1e8b7d4c6903a
 tg://proxy?server=junction.proxy.rlwy.net&port=45559&secret=9f2c7a4e1b8d6035c4a9e2f7d6b1083a
 tg://proxy?server=yamabiko.proxy.rlwy.net&port=52356&secret=c8f1a4d72e9b6035f7a2c1e8d4b9063a
+tg://proxy?server=esteghlal.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=GOLD.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
