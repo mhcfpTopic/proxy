@@ -542,8 +542,6 @@ tg://proxy?server=lite.mishutkin.click&port=443&secret=ee6c0129616e502347f4d9422
 tg://proxy?server=type.mishutkin.click&port=443&secret=ee7fe720c30c20ee726c5bfc6036f39779747970652e6d69736875746b696e2e636c69636b&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=std.mishutkin.click&port=443&secret=eeb75972ad4ea6cd848512584c0efc49b77374642e6d69736875746b696e2e636c69636b&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
-tg://proxy?server=sepknown-tu1.seyhello.my.id&port=8044&secret=dd64fd650b5b50ea0836d38f98076fea99
-tg://proxy?server=sepknown-tu1.seyhello.my.id&port=8044&secret=64fd650b5b50ea0836d38f98076fea99
 tg://proxy?server=ppp11837687790.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=good.cipservice.co.uk&port=2083&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=perspolis.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -640,3 +638,4 @@ tg://proxy?server=thomas.proxy.rlwy.net&port=20567&secret=c4e8a21f7b9d3065a2f6c1
 tg://proxy?server=zephyr.proxy.rlwy.net&port=34312&secret=8b2e5f1a9c4d7036e1a8b5c2f9d64073
 tg://proxy?server=46.225.253.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=autorack.proxy.rlwy.net&port=20633&secret=6d9a2f4c8b1e7035a4c7d2f9e6b81043
+tg://proxy?server=altaria.proxy.rlwy.net&port=15333&secret=b8e4a1f7c92d6035e8a2f4b1d7c9603a
