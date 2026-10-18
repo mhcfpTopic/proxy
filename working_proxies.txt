@@ -509,7 +509,6 @@ tg://proxy?server=all4.beshdash.ir&port=5050&secret=389924d0b51ba5defc3b645cebf6
 tg://proxy?server=51.df.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=11.e7.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=5.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=all3.beshdash.ir&port=20200&secret=389824d0b51ba5defc3b645cebf65ec3
 tg://proxy?server=6.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=671.ja.mmd.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -634,3 +633,8 @@ tg://webproxy?server=45.192.194.210.sslip.io&port=443&secret=42591462ee26ea6a4d3
 tg://webproxy?server=45.192.203.61.sslip.io&port=443&secret=57615e31da1424569f1941f709e4264e
 tg://webproxy?server=45.192.201.29.sslip.io&port=443&secret=fbbb522c8f1291f1a3d86d422e3affd4
 tg://webproxy?server=154.85.19.193.sslip.io&port=443&secret=55608b67a5b83c881a65b0e1cd8d4c90
+tg://webproxy?server=web.sinlx.ir&port=443&secret=d818f0462d1b275b8854f85c35e64108
+tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=cdn.ma-rd.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=3.atxng.com&port=443&secret=eebb3605bf7fe3bf5e2f33e2ba890cbc4f332e6174786e672e636f6d
+tg://proxy?server=web-kook.mosbatbashim.info.&port=5500&secret=DDBighLLvXrFGRMCBVJdFQ
