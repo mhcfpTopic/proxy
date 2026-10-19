@@ -633,3 +633,7 @@ tg://proxy?server=altaria.proxy.rlwy.net&port=15333&secret=b8e4a1f7c92d6035e8a2f
 tg://proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=altaria.proxy.rlwy.net&port=59187&secret=9f2c7a1e4b8d6035a1c7e9f2b6d8403a
 tg://proxy?server=monorail.proxy.rlwy.net&port=27795&secret=c8f1a4e7296b03d5f2a8c7e14b9d603f
+tg://proxy?server=kodama.proxy.rlwy.net&port=54963&secret=7f3a9c2e8b5d1f4a6c8e0b2d4f6a8c0e
+tg://proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add%F0%9F%9F%A2&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
