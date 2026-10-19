@@ -616,7 +616,6 @@ tg://webproxy?server=45.192.194.210.sslip.io&port=443&secret=42591462ee26ea6a4d3
 tg://webproxy?server=45.192.203.61.sslip.io&port=443&secret=57615e31da1424569f1941f709e4264e
 tg://webproxy?server=45.192.201.29.sslip.io&port=443&secret=fbbb522c8f1291f1a3d86d422e3affd4
 tg://webproxy?server=154.85.19.193.sslip.io&port=443&secret=55608b67a5b83c881a65b0e1cd8d4c90
-tg://webproxy?server=web.sinlx.ir&port=443&secret=d818f0462d1b275b8854f85c35e64108
 tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=cdn.ma-rd.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=3.atxng.com&port=443&secret=eebb3605bf7fe3bf5e2f33e2ba890cbc4f332e6174786e672e636f6d
@@ -635,6 +634,5 @@ tg://proxy?server=work.mishutkin.click&port=443&secret=ee61947a32dca6f584a277267
 tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=thomas.proxy.rlwy.net&port=20567&secret=c4e8a21f7b9d3065a2f6c1e8d4b70359
 tg://proxy?server=zephyr.proxy.rlwy.net&port=34312&secret=8b2e5f1a9c4d7036e1a8b5c2f9d64073
-tg://proxy?server=46.225.253.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=autorack.proxy.rlwy.net&port=20633&secret=6d9a2f4c8b1e7035a4c7d2f9e6b81043
 tg://proxy?server=altaria.proxy.rlwy.net&port=15333&secret=b8e4a1f7c92d6035e8a2f4b1d7c9603a
