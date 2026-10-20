@@ -606,3 +606,4 @@ tg://proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc
 tg://proxy?server=46.224.71.119&port=8443&secret=104462821249bd7ac519130220c8dd09
 tg://proxy?server=168.222.49.219&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
 tg://proxy?server=143.14.59.80&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
+tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
