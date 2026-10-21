@@ -555,7 +555,6 @@ tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e
 tg://proxy?server=cdn.ma-rd.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=3.atxng.com&port=443&secret=eebb3605bf7fe3bf5e2f33e2ba890cbc4f332e6174786e672e636f6d
 tg://proxy?server=web-kook.mosbatbashim.info.&port=5500&secret=DDBighLLvXrFGRMCBVJdFQ
-tg://proxy?server=178.104.115.71&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
 tg://proxy?server=reseau.proxy.rlwy.net&port=27851&secret=a7f3c91e5b2d8046f1a9c7e3d6b82045
 tg://proxy?server=centerbeam.proxy.rlwy.net&port=58487&secret=e4b8a21f7c9d3056a2f1e8b7c6d40935
@@ -604,3 +603,4 @@ tg://proxy?server=333.antifilterasianew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCI
 tg://proxy?server=46.225.179.160&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
