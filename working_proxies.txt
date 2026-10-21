@@ -283,7 +283,6 @@ tg://proxy?server=ok.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac5191
 tg://proxy?server=1.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=Rakhsh.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=atxng.com&port=443&secret=ee2f74026dcf61ad5dd87065d59bf7e3a16174786e672e636f6d
 tg://proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=mashti-khan.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=mashti-khobi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add%F0%9F%9F%A2&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -551,7 +550,6 @@ tg://webproxy?server=45.192.201.29.sslip.io&port=443&secret=fbbb522c8f1291f1a3d8
 tg://webproxy?server=154.85.19.193.sslip.io&port=443&secret=55608b67a5b83c881a65b0e1cd8d4c90
 tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=cdn.ma-rd.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=3.atxng.com&port=443&secret=eebb3605bf7fe3bf5e2f33e2ba890cbc4f332e6174786e672e636f6d
 tg://proxy?server=web-kook.mosbatbashim.info.&port=5500&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
 tg://proxy?server=reseau.proxy.rlwy.net&port=27851&secret=a7f3c91e5b2d8046f1a9c7e3d6b82045
