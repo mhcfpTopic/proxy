@@ -620,3 +620,4 @@ tg://proxy?server=ay.havaar.naaab.lol&port=8443&secret=dd104462821249bd7ac519130
 tg://proxy?server=46.225.249.82&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=hafez.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=kurd.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=ir-ir.macauley.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
