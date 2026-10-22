@@ -656,3 +656,8 @@ tg://webproxy?server=mci-ir-irancell-ir-enamad-ir-irna-ir-bmi-ir-cafebazaar.raws
 tg://webproxy?server=web-de2.tgproxy.pink&port=443&secret=ddf89bbc302851faf46edca4206ad06613
 tg://proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=194.60.228.101&port=2096&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=212.108.98.5.aprawood.ir&port=2020&secret=00000000000000000000000000000000
+tg://proxy?server=ddf.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=2222u.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=111d.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=117x.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
