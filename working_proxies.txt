@@ -667,3 +667,6 @@ tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdC
 tg://proxy?server=88.198.148.89&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
 tg://proxy?server=tiu.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://webproxy?server=tele-connect.app&port=443&secret=dd1c82c514fdeb0d26cf8658d823220084
+tg://webproxy?server=web.solasmp.ru&port=443&secret=187ca529eae717212e041d4739156b09
+tg://webproxy?server=tg.chaofan.one&port=443&secret=a3f5c8d2e1b7094a6c8d3f5e2b1a709c
