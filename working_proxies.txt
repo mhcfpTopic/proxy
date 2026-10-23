@@ -650,7 +650,6 @@ tg://webproxy?server=tavienne.xyz&port=443&secret=dd0ac7290872004ac465cfea1b05d5
 tg://webproxy?server=space.emancipation.icu&port=443&secret=0b9db4c03c176aac566b33d2328946bb
 tg://webproxy?server=cdnvkvideo01.liketg.org&port=443&secret=dd65e58cc66c77a3b454dda5546a1acbcf
 tg://webproxy?server=mci-ir-irancell-ir-enamad-ir-irna-ir-bmi-ir-cafebazaar.rawsalt.ir&port=443&secret=ddde2038f799899cae93b56397bcc7315c
-tg://webproxy?server=web-de2.tgproxy.pink&port=443&secret=ddf89bbc302851faf46edca4206ad06613
 tg://proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=194.60.228.101&port=2096&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=212.108.98.5.aprawood.ir&port=2020&secret=00000000000000000000000000000000
