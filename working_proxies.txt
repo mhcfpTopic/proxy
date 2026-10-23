@@ -648,7 +648,6 @@ tg://proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&nam
 tg://proxy?server=uwu.mishutkin.click&port=443&secret=eec21a6ac829a6acfe1077910fc3da1c127577752e6d69736875746b696e2e636c69636b&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://webproxy?server=tavienne.xyz&port=443&secret=dd0ac7290872004ac465cfea1b05d5ffb8
 tg://webproxy?server=space.emancipation.icu&port=443&secret=0b9db4c03c176aac566b33d2328946bb
-tg://webproxy?server=cdnvkvideo01.liketg.org&port=443&secret=dd65e58cc66c77a3b454dda5546a1acbcf
 tg://webproxy?server=mci-ir-irancell-ir-enamad-ir-irna-ir-bmi-ir-cafebazaar.rawsalt.ir&port=443&secret=ddde2038f799899cae93b56397bcc7315c
 tg://proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=194.60.228.101&port=2096&secret=79e344818749bd7ac519130220c25d09
@@ -668,3 +667,10 @@ tg://proxy?server=tiu.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac5191
 tg://webproxy?server=tele-connect.app&port=443&secret=dd1c82c514fdeb0d26cf8658d823220084
 tg://webproxy?server=web.solasmp.ru&port=443&secret=187ca529eae717212e041d4739156b09
 tg://webproxy?server=tg.chaofan.one&port=443&secret=a3f5c8d2e1b7094a6c8d3f5e2b1a709c
+tg://proxy?server=mt.wexproxy.com&port=8443&secret=7kJv1rlqqtc0CbrNK0ZTvkdjbG91ZGZsYXJlLmNvbQ
+tg://proxy?server=speed.runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=3.antifilterasianew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=sarzamin.mosbatbashim.info&port=2882&secret=dd10400103324995b07c030386e886e7f1
+tg://proxy?server=3etare.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=dark1.globalmymusic.co.uk&port=443&secret=eeDarKDarKDarKDarKDarK
+tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
