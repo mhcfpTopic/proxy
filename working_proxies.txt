@@ -566,7 +566,6 @@ tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6ae
 tg://webproxy?server=tele-connect.app&port=443&secret=dd1c82c514fdeb0d26cf8658d823220084
 tg://webproxy?server=web.solasmp.ru&port=443&secret=187ca529eae717212e041d4739156b09
 tg://webproxy?server=tg.chaofan.one&port=443&secret=a3f5c8d2e1b7094a6c8d3f5e2b1a709c
-tg://proxy?server=mt.wexproxy.com&port=8443&secret=7kJv1rlqqtc0CbrNK0ZTvkdjbG91ZGZsYXJlLmNvbQ
 tg://proxy?server=speed.runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=3.antifilterasianew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=sarzamin.mosbatbashim.info&port=2882&secret=dd10400103324995b07c030386e886e7f1
@@ -684,3 +683,7 @@ tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae
 tg://proxy?server=193.163.201.114&port=25565&secret=6ce61b205133dbfac3c850332fa67413
 tg://socks?server=116.213.43.219&port=53388&pass=rQlt8m4ymVbG&user=u66586608
 tg://proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=male58.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6d616c6535382e6d6f73737772656e2e766970&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&name=%F0%9F%87%A9%F0%9F%87%AA+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=irluxcars.site&port=4455&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
