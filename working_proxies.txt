@@ -683,3 +683,4 @@ tg://proxy?server=luxuryman.sbs&port=4455&secret=dd104462821249bd7ac519130220c25
 tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
 tg://proxy?server=193.163.201.114&port=25565&secret=6ce61b205133dbfac3c850332fa67413
 tg://socks?server=116.213.43.219&port=53388&pass=rQlt8m4ymVbG&user=u66586608
+tg://proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
