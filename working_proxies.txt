@@ -700,3 +700,10 @@ tg://proxy?server=edge.proxynet.tech&port=443&secret=ee6ab3febbd991da36e6698e47a
 tg://proxy?server=messi.nisti.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=00u.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=46.4.109.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=JOKER.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=77.110.123.87&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d
+tg://proxy?server=link.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=crash.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=partnerupload.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=forums.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
