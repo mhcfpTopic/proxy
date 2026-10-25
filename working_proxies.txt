@@ -547,7 +547,6 @@ tg://proxy?server=117x.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519
 tg://proxy?server=33.mtprotonewrunningproxasia.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=srv-hkfazd.giverra.sbs&port=443&secret=ee90a4f8bc2c8473bd622f415a452d50df646c2e676f6f676c652e636f6d
 tg://proxy?server=sdd7x.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=88.198.148.89&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
 tg://webproxy?server=tele-connect.app&port=443&secret=dd1c82c514fdeb0d26cf8658d823220084
 tg://webproxy?server=web.solasmp.ru&port=443&secret=187ca529eae717212e041d4739156b09
@@ -693,7 +692,6 @@ tg://proxy?server=messi.nisti.co.uk&port=8880&secret=79e344818749bd7ac519130220c
 tg://proxy?server=00u.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=46.4.109.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=JOKER.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=77.110.123.87&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d
 tg://proxy?server=link.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=partnerupload.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -715,3 +713,7 @@ tg://proxy?server=77.110.120.135&port=443&secret=dda63735026b6da35ed9a70f5e73220
 tg://proxy?server=178.104.227.66&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=162.55.169.142&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=r7fu7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=46.225.254.89&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=46.225.254.8&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=moheme.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=no.problem.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
