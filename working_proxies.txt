@@ -446,7 +446,6 @@ tg://proxy?server=esteghlal.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac5
 tg://proxy?server=GOLD.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=66.33.22.249&port=57506&secret=27093dfaa1dbe608be804fd34cf881ba
 tg://proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://webproxy?server=45.192.203.61.sslip.io&port=443&secret=57615e31da1424569f1941f709e4264e
 tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=cdn.ma-rd.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=web-kook.mosbatbashim.info.&port=5500&secret=DDBighLLvXrFGRMCBVJdFQ
