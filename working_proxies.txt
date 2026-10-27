@@ -449,7 +449,6 @@ tg://proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c
 tg://webproxy?server=45.192.194.210.sslip.io&port=443&secret=42591462ee26ea6a4d3826fdf5b15933
 tg://webproxy?server=45.192.203.61.sslip.io&port=443&secret=57615e31da1424569f1941f709e4264e
 tg://webproxy?server=45.192.201.29.sslip.io&port=443&secret=fbbb522c8f1291f1a3d86d422e3affd4
-tg://webproxy?server=154.85.19.193.sslip.io&port=443&secret=55608b67a5b83c881a65b0e1cd8d4c90
 tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=cdn.ma-rd.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=web-kook.mosbatbashim.info.&port=5500&secret=DDBighLLvXrFGRMCBVJdFQ
@@ -662,7 +661,6 @@ tg://proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&
 tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=core.proxynet.tech&port=443&secret=ee6963f54d30b8aa1edf4777718f519652636f72652e70726f78796e65742e74656368&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA
-tg://proxy?server=id.ang-el.ir&port=2053&secret=eee1c804ff57505266e6280626ed8323e07777772e6165662e6972
 tg://proxy?server=91.107.171.35&port=443&secret=104462821249bd7ac519130220c25d09&name=%F0%9F%87%A9%F0%9F%87%AA+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=s3.soft98.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=pulse.proxynet.tech&port=443&secret=ee7d4b579bf9027fcacc538af5492a9e6670756c73652e70726f78796e65742e74656368&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -720,3 +718,4 @@ tg://proxy?server=7hk.ir.meli-n13.info&port=8443&secret=104462821249bd7ac5191302
 tg://proxy?server=0pl.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=00p.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.99.3.135&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
