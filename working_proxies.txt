@@ -113,7 +113,6 @@ tg://proxy?server=khobi.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c
 tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://webproxy?server=eu.compono.online&port=443&secret=0b03d5b08b5592096de09e41ebbfc137
 tg://proxy?server=pts.daricto.ir&port=443&secret=953d7a7960199dec8308605b94e2019f
 tg://proxy?server=ccoineres.daricto.ir&port=443&secret=f1c9962c807da65e6ef5602cf463a3ab
@@ -734,3 +733,6 @@ tg://proxy?server=Pasargad.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCI
 tg://proxy?server=fastnet.proxynet.tech&port=443&secret=eef7e84416dee389ac65898a2b853d228a666173746e65742e70726f78796e65742e74656368&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=34.87.158.150&port=12432&secret=eeeaabea0b96a8e55f0f842afd282417d07777772e6d6963726f736f66742e636f6d&name=%F0%9F%87%B8%F0%9F%87%AC+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=maxspeed.proxynet.tech&port=443&secret=ee7fff194939ff56c5f70281d7b20f575c6d617873706565642e70726f78796e65742e74656368&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
+tg://proxy?server=server2.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=web.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=server1.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
