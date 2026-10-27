@@ -736,3 +736,8 @@ tg://proxy?server=maxspeed.proxynet.tech&port=443&secret=ee7fff194939ff56c5f7028
 tg://proxy?server=server2.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=web.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=server1.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=65.109.186.186&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=7yh1k.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=6ugp.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=008l.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=oog.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
