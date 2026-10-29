@@ -780,3 +780,9 @@ tg://proxy?server=ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=13.184.142.99&port=443&secret=87465b63a5d4bc97d6ecb69fedf1dab3%2A%2A
 tg://proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=filmvideo.poefauscw.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=227.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=88g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=0089.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=fyxfy66th77.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=fycfjg6g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=rrr746f889.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
