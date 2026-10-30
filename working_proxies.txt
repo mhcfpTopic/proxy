@@ -794,7 +794,6 @@ tg://proxy?server=00005566g.ir.meli-n13.info&port=8443&secret=104462821249bd7ac5
 tg://proxy?server=000011ii8g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=000011fk89.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://webproxy?server=happyconnect.cfd&port=443&secret=dde9f6cbd66d46853186ce11e3b0eaa9ce
 tg://proxy?server=135.181.185.168&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=65.109.54.165&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=www.digikallamall.ir&port=8443&secret=3RBEYoISSb16xRkTAiDCXQkmhggssslllllffffffffffff
