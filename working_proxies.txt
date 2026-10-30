@@ -623,7 +623,6 @@ tg://proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&name=%F0
 tg://proxy?server=ir-ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b
 tg://webproxy?server=cacaoware.com&port=443&secret=caca0caca0caca0caca0caca0caca000
-tg://webproxy?server=webrtp.prtw.ru&port=443&secret=ac893cee4c37ad1097b525b91cf00131
 tg://webproxy?server=mtproto.win&port=443&secret=dde5544cb710bae52b8bcbc05375921c16
 tg://proxy?server=ir-ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=demaga57.tidelark.cc&port=443&secret=ee9267d78681726d5ff1bf826b750ba4ba64656d61676135372e746964656c61726b2e6363
