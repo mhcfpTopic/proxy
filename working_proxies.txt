@@ -664,7 +664,6 @@ tg://proxy?server=RAGNAR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac5191
 tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
 tg://proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=188.245.7.75&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=46.225.137.31&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 tg://proxy?server=46.224.73.46&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=cdn1.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=111k.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
@@ -700,7 +699,6 @@ tg://proxy?server=7y68h1k.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519
 tg://proxy?server=786ugp.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=07808l.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=cdn1.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=195.172.138.81&port=443&secret=ee21f69bc4508e2fcc547b6f83e0ce7645636c6f7564666c6172652e636f6d
 tg://proxy?server=l77.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=n88.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=m89.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -773,7 +771,6 @@ tg://proxy?server=white.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=white.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=proxy.zetru.nl&port=443&secret=06233b1831a19a98554a06e84a4a1c9f
 tg://proxy?server=157.173.16.49&port=443&secret=06233b1831a19a98554a06e84a4a1c9f
-tg://proxy?server=46.225.219.8&port=7799&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=18.221.119.211&port=443&secret=2d6db00dabe822b7535822c6cd61b4b8
