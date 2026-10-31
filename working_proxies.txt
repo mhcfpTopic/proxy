@@ -176,7 +176,6 @@ tg://proxy?server=habib-lisanser.browncolor.info&port=8443&secret=16030102000100
 tg://proxy?server=212.34.133.212&port=443&secret=eecBAgABAAfwAwOG4kw63Q
 tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://webproxy?server=webproxy-danfeng.304999.xyz&port=443&secret=70a26ec9fc608867e907d729fe3cf65f
 tg://webproxy?server=tg.empty-space.org&port=443&secret=7e2b68c52cacccad90eda282852e16ab
 tg://proxy?server=91.98.99.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -430,8 +429,6 @@ tg://proxy?server=thomas.proxy.rlwy.net&port=20567&secret=c4e8a21f7b9d3065a2f6c1
 tg://proxy?server=zephyr.proxy.rlwy.net&port=34312&secret=8b2e5f1a9c4d7036e1a8b5c2f9d64073
 tg://proxy?server=altaria.proxy.rlwy.net&port=15333&secret=b8e4a1f7c92d6035e8a2f4b1d7c9603a
 tg://proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-tg://proxy?server=monorail.proxy.rlwy.net&port=27795&secret=c8f1a4e7296b03d5f2a8c7e14b9d603f
-tg://proxy?server=kodama.proxy.rlwy.net&port=54963&secret=7f3a9c2e8b5d1f4a6c8e0b2d4f6a8c0e
 tg://proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add%F0%9F%9F%A2&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
