@@ -756,7 +756,6 @@ tg://proxy?server=00005566g.ir.meli-n13.info&port=8443&secret=104462821249bd7ac5
 tg://proxy?server=000011ii8g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=000011fk89.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=135.181.185.168&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=65.109.54.165&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=www.digikallamall.ir&port=8443&secret=3RBEYoISSb16xRkTAiDCXQkmhggssslllllffffffffffff
 tg://proxy?server=6ggg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
@@ -796,3 +795,5 @@ tg://proxy?server=kamni.monaliza.hamintori.co.uk&port=443&secret=ee5f7ce28a2c481
 tg://proxy?server=love.roseprox.xyz&port=443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=157.173.16.49&port=16692&secret=ee86997f4e46a07248669b17d7380367b67777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
+tg://proxy?server=168.119.179.237&port=8443&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=178.105.127.56&port=8443&secret=104462821249bd7ac519130220c8dd09
