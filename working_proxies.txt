@@ -792,3 +792,4 @@ tg://proxy?server=proxy.zetru.nl&port=443&secret=06233b1831a19a98554a06e84a4a1c9
 tg://proxy?server=157.173.16.49&port=443&secret=06233b1831a19a98554a06e84a4a1c9f
 tg://proxy?server=46.225.219.8&port=7799&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
