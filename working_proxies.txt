@@ -663,7 +663,6 @@ tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702e
 tg://proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=188.245.7.75&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=46.224.73.46&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=cdn1.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=111k.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=48l.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=521.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -803,3 +802,4 @@ tg://webproxy?server=pl1.vetka.rest&port=443&secret=dd29f1b13ae871328bb68c23eb31
 tg://webproxy?server=into.thedawnmist.ir&port=443&secret=886c5123e0cc1c4f02a71465f3eb7d46
 tg://proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
