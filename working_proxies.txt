@@ -808,8 +808,5 @@ tg://proxy?server=91.98.27.121&port=443&secret=3RBEYoISSb16xRkTAiDCXQk
 tg://proxy?server=91.107.162.193&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=178.105.45.96&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 tg://proxy?server=49.12.32.53&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=cekra.jojeh.info&port=8443&secret=7hB5Li7LSORYfcDB08GtT0o%3D
-tg://proxy?server=cekra2.jojeh.info&port=443&secret=FASTooGmYdaaVxJpA0SkKQ
-tg://proxy?server=cekra.jojeh.info&port=8443&secret=7hB5Li7LSORYfcDB08GtT0o
 tg://proxy?server=mottasel.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.77.37&port=25856&secret=ee00baabe143f6bbcec73f8a5d4dca005b7777772e636c6f7564666c6172652e636f6d
