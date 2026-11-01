@@ -803,3 +803,13 @@ tg://proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=name.namenewok.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=srv-zexrly.giverra.sbs&port=443&secret=eeda6be0565866c87eea8dbc2b10bd8f74646c2e676f6f676c652e636f6d
+tg://proxy?server=23.88.35.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=91.98.27.121&port=443&secret=3RBEYoISSb16xRkTAiDCXQk
+tg://proxy?server=91.107.162.193&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=178.105.45.96&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
+tg://proxy?server=49.12.32.53&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=cekra.jojeh.info&port=8443&secret=7hB5Li7LSORYfcDB08GtT0o%3D
+tg://proxy?server=cekra2.jojeh.info&port=443&secret=FASTooGmYdaaVxJpA0SkKQ
+tg://proxy?server=cekra.jojeh.info&port=8443&secret=7hB5Li7LSORYfcDB08GtT0o
+tg://proxy?server=mottasel.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
