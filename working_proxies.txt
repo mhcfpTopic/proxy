@@ -483,7 +483,6 @@ tg://proxy?server=ddf.meli-n12.info&port=8443&secret=dd104462821249bd7ac51913022
 tg://proxy?server=111d.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=117x.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=33.mtprotonewrunningproxasia.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=srv-hkfazd.giverra.sbs&port=443&secret=ee90a4f8bc2c8473bd622f415a452d50df646c2e676f6f676c652e636f6d
 tg://proxy?server=sdd7x.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
 tg://webproxy?server=tele-connect.app&port=443&secret=dd1c82c514fdeb0d26cf8658d823220084
@@ -816,3 +815,8 @@ tg://proxy?server=new.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=65.109.54.139&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=alone.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.77.37&port=26088&secret=ee6d93222754b7a829c257bf1f0db104737777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=telegram.telbet.app&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=00028ijg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=u000i1g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=000i9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
