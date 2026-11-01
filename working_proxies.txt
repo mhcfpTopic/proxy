@@ -765,7 +765,6 @@ tg://proxy?server=white.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=proxy.zetru.nl&port=443&secret=06233b1831a19a98554a06e84a4a1c9f
 tg://proxy?server=157.173.16.49&port=443&secret=06233b1831a19a98554a06e84a4a1c9f
 tg://proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=18.221.119.211&port=443&secret=2d6db00dabe822b7535822c6cd61b4b8
 tg://proxy?server=kk8h.e7.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=1.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -810,3 +809,7 @@ tg://proxy?server=178.105.45.96&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 tg://proxy?server=49.12.32.53&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mottasel.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.77.37&port=25856&secret=ee00baabe143f6bbcec73f8a5d4dca005b7777772e636c6f7564666c6172652e636f6d
+tg://webproxy?server=tgp-a5e9b52b.aareshayad.workers.dev&port=443&secret=dd8ad8dec832f9689f33aef0cea2338047
+tg://webproxy?server=tgp-8d1e8cce.aareshayad.workers.dev&port=443&secret=dd5fba9b33d4b1d084516acee685c5bc7e
+tg://proxy?server=dpi.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=new.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
