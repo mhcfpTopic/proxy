@@ -820,3 +820,6 @@ tg://proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=00028ijg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=u000i1g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=000i9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=2h77u8ijg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=buiui1g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=yij118i9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
