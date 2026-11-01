@@ -798,7 +798,6 @@ tg://webproxy?server=pl1.vetka.rest&port=443&secret=dd29f1b13ae871328bb68c23eb31
 tg://webproxy?server=into.thedawnmist.ir&port=443&secret=886c5123e0cc1c4f02a71465f3eb7d46
 tg://proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
 tg://proxy?server=name.namenewok.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=srv-zexrly.giverra.sbs&port=443&secret=eeda6be0565866c87eea8dbc2b10bd8f74646c2e676f6f676c652e636f6d
 tg://proxy?server=23.88.35.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -823,4 +822,3 @@ tg://proxy?server=000i9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac51
 tg://proxy?server=2h77u8ijg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=buiui1g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=yij118i9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
