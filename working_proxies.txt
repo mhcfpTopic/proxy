@@ -818,3 +818,5 @@ tg://proxy?server=167.233.233.253&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdG
 tg://proxy?server=188.245.207.66&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=char.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=isaco.ir.jnxu.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
