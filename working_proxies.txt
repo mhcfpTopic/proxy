@@ -806,3 +806,6 @@ tg://proxy?server=chd67k7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519
 tg://proxy?server=chhk8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=nnh79.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdC
+tg://webproxy?server=tgp-6cb49adf.aareshayad.workers.dev&port=443&secret=dd54035f786794581287af096c87c4345d
+tg://webproxy?server=tgp-11516087.aareshayad.workers.dev&port=443&secret=dd35ce8e7e56e2f0b24e7b22c5e0ed9880
+tg://webproxy?server=tgp-074a520c.aareshayad.workers.dev&port=443&secret=dd5cdbcfb0f9d8dc1cd3f392ebd034a4d1
