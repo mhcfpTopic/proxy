@@ -398,7 +398,6 @@ tg://proxy?server=Dho.phd.iv.md.h.g.if.7.www1www.ir.&port=8443&secret=eeNEgYdJvX
 tg://proxy?server=Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=www.lwww.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=xvif.0mhku.cst.8bfy5.hif6.9pn.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=altaria.proxy.rlwy.net&port=46796&secret=a7f3c91e8b2d6045f1a9e7c3b6d8204f
 tg://proxy?server=esteghlal.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=GOLD.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -406,7 +405,6 @@ tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e
 tg://proxy?server=cdn.ma-rd.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=0.df.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=lavashak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
-tg://proxy?server=thomas.proxy.rlwy.net&port=20567&secret=c4e8a21f7b9d3065a2f6c1e8d4b70359
 tg://proxy?server=zephyr.proxy.rlwy.net&port=34312&secret=8b2e5f1a9c4d7036e1a8b5c2f9d64073
 tg://proxy?server=altaria.proxy.rlwy.net&port=15333&secret=b8e4a1f7c92d6035e8a2f4b1d7c9603a
 tg://proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
@@ -807,5 +805,4 @@ tg://proxy?server=65.109.106.179&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=chd67k7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=chhk8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=nnh79.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=mt.elitev2.ir&port=8443&secret=ee9a21b42e041132145dd6ae8a87ace5b97777772e6170617261742e636f6d
 tg://proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdC
