@@ -809,3 +809,12 @@ tg://proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdC
 tg://webproxy?server=tgp-6cb49adf.aareshayad.workers.dev&port=443&secret=dd54035f786794581287af096c87c4345d
 tg://webproxy?server=tgp-11516087.aareshayad.workers.dev&port=443&secret=dd35ce8e7e56e2f0b24e7b22c5e0ed9880
 tg://webproxy?server=tgp-074a520c.aareshayad.workers.dev&port=443&secret=dd5cdbcfb0f9d8dc1cd3f392ebd034a4d1
+tg://proxy?server=hasi.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=00067k7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=7yjhhk8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=7hhjnh79.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=mmdd.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=167.233.233.253&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+tg://proxy?server=188.245.207.66&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+tg://proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
