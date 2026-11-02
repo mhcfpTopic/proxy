@@ -798,7 +798,6 @@ tg://webproxy?server=into.thedawnmist.ir&port=443&secret=886c5123e0cc1c4f02a7146
 tg://proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=name.namenewok.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=srv-zexrly.giverra.sbs&port=443&secret=eeda6be0565866c87eea8dbc2b10bd8f74646c2e676f6f676c652e636f6d
 tg://proxy?server=23.88.35.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=91.98.27.121&port=443&secret=3RBEYoISSb16xRkTAiDCXQk
 tg://proxy?server=91.107.162.193&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
