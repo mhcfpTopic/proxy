@@ -820,3 +820,11 @@ tg://proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFu
 tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=char.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=isaco.ir.jnxu.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=exp.proxy.digitalresistance.dog&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d
+tg://proxy?server=my.silvpn.su&port=443&secret=eeea7a1978e167c0842ce31a16749038da6d792e6e657763646e2e7275
+tg://proxy?server=176.57.69.182&port=53627&secret=ee42eb79c1df22d7be6de261ce63082a4d31632e7275
+tg://proxy?server=eyiran1.suser.ir&port=2020&secret=00000000000000000000000000000000
+tg://proxy?server=51.158.202.129&port=443&secret=083fe0c452e2407d835537872f097c54
+tg://proxy?server=51.158.201.116&port=443&secret=083fe0c452e2407d835537872f097c54
+tg://webproxy?server=clicktg.click-net.one&port=443&secret=ddc7cd8aca0523870fd2b926f1ee06b91a
+tg://webproxy?server=magmastyle.shop&port=443&secret=dd7d1de86904a5c624c67d841d0c181ebb
