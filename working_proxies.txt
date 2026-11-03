@@ -826,3 +826,7 @@ tg://proxy?server=51.158.201.116&port=443&secret=083fe0c452e2407d835537872f097c5
 tg://webproxy?server=clicktg.click-net.one&port=443&secret=ddc7cd8aca0523870fd2b926f1ee06b91a
 tg://webproxy?server=magmastyle.shop&port=443&secret=dd7d1de86904a5c624c67d841d0c181ebb
 tg://proxy?server=ballast.proxy.rlwy.net&port=11179&secret=ee1a5b93c7d04826fbe30915a72d6c84
+tg://socks?server=69.55.49.177&port=38182&pass=Socks
+tg://webproxy?server=tgp-ebc03d6d.aareshayad.workers.dev&port=443&secret=ddec6b5ed54ab3d76e3e042ad4e222b360
+tg://webproxy?server=tgp-0a2d3fe4.aareshayad.workers.dev&port=443&secret=dd4ae2f11188568f2be7222b2f350f75e6
+tg://webproxy?server=tgp-29029a61.aareshayad.workers.dev&port=443&secret=dd6d3085a5f6c4aa16744b2a3a6098433f
