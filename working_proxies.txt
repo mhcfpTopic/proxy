@@ -836,3 +836,5 @@ tg://proxy?server=65.108.103.151&port=26276&secret=ee6d8640143566ae540625adfc7c4
 tg://proxy?server=www.cloudflare.com.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
 tg://proxy?server=cloudflare.irnick.com.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
 tg://proxy?server=shop.onlin.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
+tg://proxy?server=ir-ir.connectina.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=fast.proxynet.tech&port=443&secret=ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368
