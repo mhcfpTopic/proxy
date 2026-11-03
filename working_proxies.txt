@@ -828,3 +828,6 @@ tg://webproxy?server=tgp-ebc03d6d.aareshayad.workers.dev&port=443&secret=ddec6b5
 tg://webproxy?server=tgp-0a2d3fe4.aareshayad.workers.dev&port=443&secret=dd4ae2f11188568f2be7222b2f350f75e6
 tg://webproxy?server=tgp-29029a61.aareshayad.workers.dev&port=443&secret=dd6d3085a5f6c4aa16744b2a3a6098433f
 tg://proxy?server=foc.pf.og.mro.7f.j7.spb.f.lwww.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://webproxy?server=tgp-b2691253.prod-relay-110934.workers.dev&port=443&secret=dd1629d1663a67be7382a4352a6bb78779
+tg://webproxy?server=tgp-e29c60ec.prod-relay-110934.workers.dev&port=443&secret=dd2a789a0218acbaff0bc3d76c5e13fee4
+tg://webproxy?server=tgp-6ac0734b.prod-relay-110934.workers.dev&port=443&secret=dd7aede557ca3e617ceaeaf86e751456f1
