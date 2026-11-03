@@ -831,3 +831,8 @@ tg://proxy?server=foc.pf.og.mro.7f.j7.spb.f.lwww.ir.&port=8443&secret=eeNEgYdJvX
 tg://webproxy?server=tgp-b2691253.prod-relay-110934.workers.dev&port=443&secret=dd1629d1663a67be7382a4352a6bb78779
 tg://webproxy?server=tgp-e29c60ec.prod-relay-110934.workers.dev&port=443&secret=dd2a789a0218acbaff0bc3d76c5e13fee4
 tg://webproxy?server=tgp-6ac0734b.prod-relay-110934.workers.dev&port=443&secret=dd7aede557ca3e617ceaeaf86e751456f1
+tg://webproxy?server=wallweb-do6xj0q3.aareshayad.workers.dev&port=443&secret=caeee10656f37cc3fc110ee13977d4a1
+tg://webproxy?server=boberlox.site&port=443&secret=dd9a04242727dfa0a4a7c77e7813929c01
+tg://proxy?server=46.225.254.89&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=kl9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
