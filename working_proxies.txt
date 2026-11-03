@@ -165,7 +165,6 @@ tg://proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200
 tg://proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=212.34.133.212&port=443&secret=eecBAgABAAfwAwOG4kw63Q
 tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://webproxy?server=tg.empty-space.org&port=443&secret=7e2b68c52cacccad90eda282852e16ab
 tg://proxy?server=91.98.99.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -286,7 +285,6 @@ tg://proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&name=%F0%9F%87%A9%F0%9F%87%AA+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
-tg://proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add%F0%9F%94%B5&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=play.goole.com.craj.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=167.235.199.97&port=8443&secret=dd79e344818749bd7ac519130220c25d09
@@ -636,7 +634,6 @@ tg://proxy?server=00p.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7a
 tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=RAGNAR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
-tg://proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=188.245.7.75&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=46.224.73.46&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=111k.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
@@ -830,3 +827,4 @@ tg://socks?server=69.55.49.177&port=38182&pass=Socks
 tg://webproxy?server=tgp-ebc03d6d.aareshayad.workers.dev&port=443&secret=ddec6b5ed54ab3d76e3e042ad4e222b360
 tg://webproxy?server=tgp-0a2d3fe4.aareshayad.workers.dev&port=443&secret=dd4ae2f11188568f2be7222b2f350f75e6
 tg://webproxy?server=tgp-29029a61.aareshayad.workers.dev&port=443&secret=dd6d3085a5f6c4aa16744b2a3a6098433f
+tg://proxy?server=foc.pf.og.mro.7f.j7.spb.f.lwww.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
