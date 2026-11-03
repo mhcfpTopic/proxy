@@ -833,3 +833,10 @@ tg://proxy?server=chd77k7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519
 tg://proxy?server=NET.hoookoopdn.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 tg://webproxy?server=tgp-701e31af.infra-core-811463.workers.dev&port=443&secret=dd4829ec36d2b5be544f5a56032eeb69fd
 tg://webproxy?server=tgp-36edc521.infra-core-811463.workers.dev&port=443&secret=dd8b07f32a41d9fe4c4ff6a4419d4718ee
+tg://proxy?server=IRAN.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=petros-es.co.uk.&port=443&secret=7nnjRIGHSb16xRkTAiDCXQlwZXRyb3MtZXMuY28udWs
+tg://proxy?server=nice.rozinalpoku.co.uk&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=333g.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=222.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=11h9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
