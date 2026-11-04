@@ -900,3 +900,11 @@ tg://proxy?server=135.181.185.166&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=178.104.36.158&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
 tg://proxy?server=91.99.66.124&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 tg://proxy?server=162.55.169.142&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://webproxy?server=webproxy.608002.xyz&port=443&secret=7f3a9c2e6b1d8a4f0c5e7b2d9a6f1c83
+tg://webproxy?server=tgp-722755a4.infra-core-811463.workers.dev&port=443&secret=dd1f01394b6e25ec460445ddacdc44455b
+tg://proxy?server=tg4.quki-hub.com&port=9443&secret=58737358dee675be48618b79ece66f8c
+tg://proxy?server=72.56.94.135&port=9443&secret=58737358dee675be48618b79ece66f8c
+tg://proxy?server=77.238.241.225&port=8880&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=194.59.221.90&port=8443&secret=eef4b79908a669cfe8f293941da4e388916465636174686c6f6e2e636f6d
+tg://proxy?server=book.malavanann.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d
+tg://proxy?server=185.84.156.137&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
