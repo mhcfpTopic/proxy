@@ -741,7 +741,6 @@ tg://proxy?server=isaco.ir.setado.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=8k7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=8k8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=8k9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://webproxy?server=static3.cdnariel.live&port=443&secret=dd6413a7667d45e98d900249ab884f37e1
 tg://webproxy?server=into.thedawnmist.ir&port=443&secret=886c5123e0cc1c4f02a71465f3eb7d46
 tg://proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -797,7 +796,6 @@ tg://proxy?server=kl9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac5191
 tg://proxy?server=lllllk.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=chd77k7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=NET.hoookoopdn.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
-tg://proxy?server=IRAN.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=petros-es.co.uk.&port=443&secret=7nnjRIGHSb16xRkTAiDCXQlwZXRyb3MtZXMuY28udWs
 tg://proxy?server=nice.rozinalpoku.co.uk&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=333g.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
@@ -860,3 +858,10 @@ tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=79e344818749bd7ac5191302
 tg://proxy?server=116.203.12.28&port=2053&secret=eeBf4wSlS6Lj2mv2t1F9Qw
 tg://proxy?server=4.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=94.184.39.1133.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+tg://proxy?server=46.225.253.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
+tg://proxy?server=51.158.201.116&port=443&secret=dd083fe0c452e2407d835537872f097c54
+tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=87.248.144.60&port=2053&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://webproxy?server=tgp-bf8c9943.infra-core-811463.workers.dev&port=443&secret=dd0ae946961ad2bd76f20272c397ed4139
