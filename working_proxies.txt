@@ -862,3 +862,4 @@ tg://proxy?server=212.108.98.24.suser.ir&port=2020&secret=0000000000000000000000
 tg://proxy?server=94.184.39.111&port=2020&secret=00000000000000000000000000000000
 tg://proxy?server=212.108.98.104.aprawood.ir&port=2020&secret=00000000000000000000000000000000
 tg://webproxy?server=tgp-1401e6c0.infra-core-811463.workers.dev&port=443&secret=ddc763b358a93933e78d2e238e7486facb
+tg://proxy?server=new.nakoskoskesh.co.uk&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
