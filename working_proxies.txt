@@ -855,3 +855,8 @@ tg://proxy?server=212.108.98.104.aprawood.ir&port=2020&secret=000000000000000000
 tg://webproxy?server=tgp-1401e6c0.infra-core-811463.workers.dev&port=443&secret=ddc763b358a93933e78d2e238e7486facb
 tg://proxy?server=new.nakoskoskesh.co.uk&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=46.225.249.82&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=208.87.242.223&port=8443&secret=104462821249bd7ac519130220c8dd09
+tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=116.203.12.28&port=2053&secret=eeBf4wSlS6Lj2mv2t1F9Qw
+tg://proxy?server=4.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=94.184.39.1133.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
