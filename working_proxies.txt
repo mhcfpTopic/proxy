@@ -920,3 +920,11 @@ tg://proxy?server=94.184.39.113.suser.ir&port=2020&secret=0000000000000000000000
 tg://proxy?server=digitalvpn-proxy.ru&port=6677&secret=73c03865b903152df8e00f8a519ca4a7
 tg://proxy?server=iranmaster27.suser.ir&port=2020&secret=00000000000000000000000000000000
 tg://proxy?server=176.65.135.69&port=443&secret=dd79e7010200010007f0030386e24c3add
+tg://proxy?server=lte.proxylite.tech&port=443&secret=eed86f221b72fd35c363483cda02e5cee364726976652e676f6f676c652e636f6d
+tg://proxy?server=gram.proxylite.tech&port=443&secret=ee1d3af16cf5de956b6164ab7fcf1d82ba64726976652e676f6f676c652e636f6d
+tg://proxy?server=utkapay.life&port=443&secret=eec0ab2dc91cd75da14bf8bde752ca8222766473696e612e7275
+tg://proxy?server=s1.sosproxy.space&port=443&secret=7maPJ32wGf6IwwyOSY5yRGdkcml2ZS5nb29nbGUuY29t
+tg://proxy?server=telegram-proxy-v2.sssrvpn.pro&port=443&secret=2084c7e58d8213296a3206da70356c81
+tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
+tg://proxy?server=65.109.147.39&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
