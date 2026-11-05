@@ -569,7 +569,6 @@ tg://proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=core.proxynet.tech&port=443&secret=ee6963f54d30b8aa1edf4777718f519652636f72652e70726f78796e65742e74656368&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
-tg://proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA
 tg://proxy?server=91.107.171.35&port=443&secret=104462821249bd7ac519130220c25d09&name=%F0%9F%87%A9%F0%9F%87%AA+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=s3.soft98.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
 tg://proxy?server=pulse.proxynet.tech&port=443&secret=ee7d4b579bf9027fcacc538af5492a9e6670756c73652e70726f78796e65742e74656368&name=%F0%9F%8C%90+%40goololgoo+%F0%9F%94%90+%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+Free+Proxy%F0%9F%92%A5
@@ -901,11 +900,9 @@ tg://proxy?server=194.59.221.90&port=8443&secret=eef4b79908a669cfe8f293941da4e38
 tg://proxy?server=book.malavanann.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d
 tg://proxy?server=185.84.156.137&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
 tg://proxy?server=178.105.201.236&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
-tg://proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d
 tg://proxy?server=www.digikallamall.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 tg://proxy?server=167.235.255.18&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=repo.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=216.9.226.66&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24
 tg://proxy?server=95.217.65.146&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=2.29.118.180&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=gov.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
