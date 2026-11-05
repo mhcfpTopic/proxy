@@ -736,7 +736,6 @@ tg://proxy?server=8k8.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7a
 tg://proxy?server=8k9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://webproxy?server=into.thedawnmist.ir&port=443&secret=886c5123e0cc1c4f02a71465f3eb7d46
 tg://proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=name.namenewok.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=23.88.35.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=91.98.27.121&port=443&secret=3RBEYoISSb16xRkTAiDCXQk
