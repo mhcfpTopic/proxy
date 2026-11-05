@@ -909,3 +909,7 @@ tg://proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8
 tg://proxy?server=www.digikallamall.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 tg://proxy?server=167.235.255.18&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 tg://proxy?server=repo.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=216.9.226.66&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24
+tg://proxy?server=95.217.65.146&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=2.29.118.180&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=gov.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
