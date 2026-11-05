@@ -455,7 +455,6 @@ tg://proxy?server=sdd7x.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac51
 tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
 tg://webproxy?server=tele-connect.app&port=443&secret=dd1c82c514fdeb0d26cf8658d823220084
 tg://proxy?server=speed.runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=3.antifilterasianew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=3etare.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=79e344818749bd7ac519130220c25d09
