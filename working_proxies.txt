@@ -840,13 +840,11 @@ tg://proxy?server=94.184.39.111&port=2020&secret=0000000000000000000000000000000
 tg://proxy?server=212.108.98.104.aprawood.ir&port=2020&secret=00000000000000000000000000000000
 tg://webproxy?server=tgp-1401e6c0.infra-core-811463.workers.dev&port=443&secret=ddc763b358a93933e78d2e238e7486facb
 tg://proxy?server=new.nakoskoskesh.co.uk&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=46.225.249.82&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=208.87.242.223&port=8443&secret=104462821249bd7ac519130220c8dd09
 tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=116.203.12.28&port=2053&secret=eeBf4wSlS6Lj2mv2t1F9Qw
 tg://proxy?server=4.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=94.184.39.1133.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-tg://proxy?server=46.225.253.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
 tg://proxy?server=51.158.201.116&port=443&secret=dd083fe0c452e2407d835537872f097c54
 tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
@@ -885,7 +883,6 @@ tg://proxy?server=87.248.144.188&port=2096&secret=79e344818749bd7ac519130220c25d
 tg://proxy?server=gw-de-rgx-all.chatvpn.net&port=8443&secret=fd6ff2273d5b2a1411cb44dadea7abaa
 tg://proxy?server=194.60.228.81&port=2083&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=194.60.228.12&port=2053&secret=79e344818749bd7ac519130220c25d09
-tg://proxy?server=46.225.223.1&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=178.105.201.7&port=8443&secret=104462821249bd7ac519130220c8dd09
 tg://proxy?server=87.248.144.49&port=2096&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=178.105.124.62&port=8443&secret=79e344818749bd7ac519130220c25d09
