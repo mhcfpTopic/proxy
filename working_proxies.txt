@@ -925,3 +925,15 @@ tg://webproxy?server=zov-svo.anixart.my&port=443&secret=5a913e5b550cda6d9340b154
 tg://proxy?server=65.109.218.46&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=2.27.12.116&port=443&secret=7hkTDGlc9pnZP1ox7POA1EJtdC5za290b2Jhei5ydQ
 tg://proxy?server=www.cloudflare.maroochia.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
+tg://proxy?server=77.238.255.80&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=194.246.83.36&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=www.yesyesno.ir.&port=8443&secret=3RcBGGq9DqYBIxkuJkNPkaU
+tg://proxy?server=ryx.pc6.6s.kfu.c6.npd.wl.lpg.xy.b.ferijon.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=www.www78-62-184-9.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=www.www1www.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=188.206-197-43.ir.&port=8443&secret=3RBEBIGHSV36xZoDAiDCXLM
+tg://proxy?server=www.basketbalo.ir.&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://webproxy?server=hitachi-anchor-quality-meanwhile.trycloudflare.com&port=443&secret=ba354a2e29a1032a94a984cbfd7e219a
+tg://webproxy?server=zarnia.xyz&port=443&secret=ddfd367c42b90b0d8ec99796e343454424
+tg://webproxy?server=1d6jo.proxytop.space&port=443&secret=dd920e6f73e0bff548ad5cced411ae044d
+tg://webproxy?server=upyachka.bid&port=443&secret=e6e22259be2e49be662189ee3b5ab606
