@@ -926,3 +926,5 @@ tg://proxy?server=204.168.224.1&port=8443&secret=dd104462821249bd7ac519130220c25
 tg://proxy?server=91.98.106.193&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=621.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://webproxy?server=zov-svo.anixart.my&port=443&secret=5a913e5b550cda6d9340b1543e8d5465
+tg://proxy?server=65.109.218.46&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+tg://proxy?server=2.27.12.116&port=443&secret=7hkTDGlc9pnZP1ox7POA1EJtdC5za290b2Jhei5ydQ
