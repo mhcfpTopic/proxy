@@ -727,7 +727,6 @@ tg://webproxy?server=clicktg.click-net.one&port=443&secret=ddc7cd8aca0523870fd2b
 tg://proxy?server=ballast.proxy.rlwy.net&port=11179&secret=ee1a5b93c7d04826fbe30915a72d6c84
 tg://socks?server=69.55.49.177&port=38182&pass=Socks
 tg://webproxy?server=boberlox.site&port=443&secret=dd9a04242727dfa0a4a7c77e7813929c01
-tg://proxy?server=46.225.254.89&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=kl9.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=lllllk.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -905,3 +904,4 @@ tg://proxy?server=128.140.1.96&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=irluxcars.site&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=157.90.155.111&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=web3.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
